@@ -50,7 +50,6 @@ class PawnBoard:
         X_List = -1
         unfinished_counter = 0
         grid = (0, 1, 2, 3)
-        griddle = 1
         self.get_pawnboard_list()
         pawnboard_list = self._pawnboard_list
 
